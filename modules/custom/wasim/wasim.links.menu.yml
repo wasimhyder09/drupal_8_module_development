@@ -1,0 +1,6 @@
+wasim.messagepage:
+  title: 'Wasim message page'
+  description: 'A menu link for my custom message page'
+  route_name: wasim.message
+  weight: 9
+  menu_name: main

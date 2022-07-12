@@ -1,0 +1,7 @@
+wasim.message:
+  path: '/wasim-message'
+  defaults:
+    _controller: '\Drupal\wasim\Controller\WasimFirstController:message'
+    _title: 'Wasim custom page message'
+  requirements:
+    _permission: 'access content'
