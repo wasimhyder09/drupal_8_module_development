@@ -3,7 +3,7 @@
   * @file
   * Contains \Drupal\rsvplist\Form\RSVPForm.
   */
-namespace Drupal\rsvplist\From;
+namespace Drupal\rsvplist\Form;
 
 use Drupal\Core\Database\Database;
 use Drupal\Core\Form\FormBase;
